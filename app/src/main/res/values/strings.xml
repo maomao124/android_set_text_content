@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android_set_text_content</string>
+    <string name="text">来自strings.xml的文本</string>
+</resources>
